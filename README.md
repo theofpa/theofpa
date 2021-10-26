@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m working on KFServing and Kubeflow testing at [Prosus](https://www.prosus.com).
-- 🌱 I’m currently learning Go.
+- 🔭 I’m working at [Prosus](https://www.prosus.com)
+- ❤️ My favourite project is [Kserve](https://github.com/kserve/kserve)
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: Slack, e-mail
 
 ![](https://komarev.com/ghpvc/?username=theofpa)
