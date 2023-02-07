@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 - ❤️ My favourite project is [Kserve](https://github.com/kserve/kserve)
 - 🌱 I’m currently learning Go
-- 📚 My MSc thesis on 2011 in [Grid monitoring](https://github.com/theofpa/msc-thesis)
-- 📚 My MSc thesis in [Embeddings monitoring](https://github.com/theofpa/embeddings-store-thesis)
+- 📚 My 2011 MSc thesis in [Grid monitoring](https://github.com/theofpa/msc-thesis)
+- 📚 My 2022 MSc thesis in [Embeddings monitoring](https://github.com/theofpa/embeddings-store-thesis)
 - 📫 How to reach me: Slack, e-mail
 
 ![](https://komarev.com/ghpvc/?username=theofpa)
